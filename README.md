@@ -1,0 +1,1 @@
+Aplicando TDD, cree una función que permita definir si dos palabras de entrada son anagramas. Dos palabras son anagramas si tienen las mismas letras en orden diferente. Por ejemplo, las palabras espada y pesada son anagramas. Por simplicidad se asume que ambas palabras contienen solo letras minúsculas.
